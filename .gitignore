@@ -1,0 +1,10 @@
+*.log
+*.obj
+*.tlog
+*.idb
+*.pdb
+*.opendb
+*.db
+*.ilk
+*.exe
+.vs/MyGraphAPI/v14/.suo
